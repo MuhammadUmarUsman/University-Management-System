@@ -1,8 +1,8 @@
-# Student Management System
+# University Management System
 
 ## Description
 
-The **Student Management System** is a simple application built using **Python** with **Tkinter** for the GUI and **MySQL** for managing student data. It allows administrators to manage students' information, including adding, updating, and deleting student records. The system also allows running custom SQL queries and retrieving data from the database, such as the students taught by a particular faculty member or the department of a student.
+The **University Management System** is a simple application built using **Python** with **Tkinter** for the GUI and **MySQL** for managing student data. It allows administrators to manage students' information, including adding, updating, and deleting student records. The system also allows running custom SQL queries and retrieving data from the database, such as the students taught by a particular faculty member or the department of a student.
 
 ## Features
 
