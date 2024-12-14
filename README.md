@@ -50,8 +50,6 @@ Ensure that the following tools and libraries are installed:
 Set up the database and create necessary tables. Here’s a sample SQL to set up all the tables:
 .sql file is provided with all the sql commands to create tables, procedures and triggers used in this project. Create a database in MySql using this file
 
-```
-
 After setting up the database, make sure to update the connection details (e.g., database name and password) in the script file where the MySQL connection is made.
 
 ### Running the Application
